@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @oldtree
+  -  Dali High School -> SCUT  (South China University of Technology)
 - 👀 I’m interested in:
   -  history
   -  go
